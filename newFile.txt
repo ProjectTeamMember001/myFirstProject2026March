@@ -1,1 +1,2 @@
-myFirstFile
+myFirstLINE
+secondLINE
